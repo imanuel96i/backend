@@ -1,3 +1,4 @@
 backend/__pycache__
 UserManagement/__pycache__
 UserManagement/migrations
+backend/.env
